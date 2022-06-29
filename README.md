@@ -1,6 +1,6 @@
 <img height="90%" width="100%" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <h1 align="center">Hi 👋, I'm Ravi Shrestha</h1>
-<h3 align="center">Tech enthusiast and passionate at server side development(Backend).)</h3>
+<h3 align="center">Tech enthusiast and highly passionate about server side development(Backend).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivar246&label=Profile%20views&color=0e75b6&style=flat" alt="ivar246" /> </p>
 
