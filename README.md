@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravishr123" target="blank"><img src="https://img.shields.io/twitter/follow/ravishr123?logo=twitter&style=for-the-badge" alt="ravishr123" /></a> </p>
 
-- 🌱 I’m currently learning **Django, sql databasea**
+- 🌱 I’m currently learning **Django, sql database**
 
 - 📫 How to reach me **ravistha869@gmail.com**
 
